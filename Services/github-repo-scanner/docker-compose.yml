@@ -1,0 +1,9 @@
+version: '3'
+services:
+  github_repo_scanner:
+    build: .
+    environment:
+      - PORT=8080
+      - GITHUB_HOST=https://api.github.com
+    ports:
+      - "8080:8080"

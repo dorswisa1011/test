@@ -1,0 +1,147 @@
+{
+    "sha": "2aa2faad72e834906a54f4c4dc64c4e8bc9d2e34",
+    "url": "https://api.github.com/repos/asafnachshon/github-repo-scanner/git/trees/2aa2faad72e834906a54f4c4dc64c4e8bc9d2e34",
+    "tree": [
+        {
+            "path": ".gitignore",
+            "mode": "100644",
+            "type": "blob",
+            "sha": "b6e47617de110dea7ca47e087ff1347cc2646eda",
+            "size": 1799,
+            "url": "https://api.github.com/repos/asafnachshon/github-repo-scanner/git/blobs/b6e47617de110dea7ca47e087ff1347cc2646eda"
+        },
+        {
+            "path": "Dockerfile",
+            "mode": "100644",
+            "type": "blob",
+            "sha": "1a1eeedb2ea54d909a60fc258b9d15293a404c5b",
+            "size": 275,
+            "url": "https://api.github.com/repos/asafnachshon/github-repo-scanner/git/blobs/1a1eeedb2ea54d909a60fc258b9d15293a404c5b"
+        },
+        {
+            "path": "docker-compose.yml",
+            "mode": "100644",
+            "type": "blob",
+            "sha": "d5b9625d745de860461c7ae61951f388ea1ab381",
+            "size": 168,
+            "url": "https://api.github.com/repos/asafnachshon/github-repo-scanner/git/blobs/d5b9625d745de860461c7ae61951f388ea1ab381"
+        },
+        {
+            "path": "github_repo_scanner",
+            "mode": "040000",
+            "type": "tree",
+            "sha": "bfb3ec82722b82e5146c056116cb877236c2d728",
+            "url": "https://api.github.com/repos/asafnachshon/github-repo-scanner/git/trees/bfb3ec82722b82e5146c056116cb877236c2d728"
+        },
+        {
+            "path": "github_repo_scanner/__init__.py",
+            "mode": "100644",
+            "type": "blob",
+            "sha": "de09f48f0f330d684deb37eb3ca1cd1ee59c3edd",
+            "size": 64,
+            "url": "https://api.github.com/repos/asafnachshon/github-repo-scanner/git/blobs/de09f48f0f330d684deb37eb3ca1cd1ee59c3edd"
+        },
+        {
+            "path": "github_repo_scanner/controllers",
+            "mode": "040000",
+            "type": "tree",
+            "sha": "1e28089e9a0d53c6346b7815bfbdf6c024b11fec",
+            "url": "https://api.github.com/repos/asafnachshon/github-repo-scanner/git/trees/1e28089e9a0d53c6346b7815bfbdf6c024b11fec"
+        },
+        {
+            "path": "github_repo_scanner/controllers/__init__.py",
+            "mode": "100644",
+            "type": "blob",
+            "sha": "f6cc8a799772f66bced360a453bddd6cf97972aa",
+            "size": 167,
+            "url": "https://api.github.com/repos/asafnachshon/github-repo-scanner/git/blobs/f6cc8a799772f66bced360a453bddd6cf97972aa"
+        },
+        {
+            "path": "github_repo_scanner/controllers/_main.py",
+            "mode": "100644",
+            "type": "blob",
+            "sha": "afc44e60929e262d1df7bb3ac2f336b6c5f73472",
+            "size": 649,
+            "url": "https://api.github.com/repos/asafnachshon/github-repo-scanner/git/blobs/afc44e60929e262d1df7bb3ac2f336b6c5f73472"
+        },
+        {
+            "path": "github_repo_scanner/controllers/_tree_structure.py",
+            "mode": "100644",
+            "type": "blob",
+            "sha": "022d029c842426031095376b54c0dba8b34e65a5",
+            "size": 511,
+            "url": "https://api.github.com/repos/asafnachshon/github-repo-scanner/git/blobs/022d029c842426031095376b54c0dba8b34e65a5"
+        },
+        {
+            "path": "github_repo_scanner/service.py",
+            "mode": "100644",
+            "type": "blob",
+            "sha": "75a70ba811c7cc2ecf032f98b7ebc8a22e2a622c",
+            "size": 750,
+            "url": "https://api.github.com/repos/asafnachshon/github-repo-scanner/git/blobs/75a70ba811c7cc2ecf032f98b7ebc8a22e2a622c"
+        },
+        {
+            "path": "github_repo_scanner/services",
+            "mode": "040000",
+            "type": "tree",
+            "sha": "ae60b7d7aecd19e7fab9382412a096b6561e41b1",
+            "url": "https://api.github.com/repos/asafnachshon/github-repo-scanner/git/trees/ae60b7d7aecd19e7fab9382412a096b6561e41b1"
+        },
+        {
+            "path": "github_repo_scanner/services/__init__.py",
+            "mode": "100644",
+            "type": "blob",
+            "sha": "983cef4227edf03b478d86f7fb0aa5f7a8cc8ea5",
+            "size": 93,
+            "url": "https://api.github.com/repos/asafnachshon/github-repo-scanner/git/blobs/983cef4227edf03b478d86f7fb0aa5f7a8cc8ea5"
+        },
+        {
+            "path": "github_repo_scanner/services/_github.py",
+            "mode": "100644",
+            "type": "blob",
+            "sha": "f2a05f3a6585af40e1eaf2a5360afebde2268a19",
+            "size": 471,
+            "url": "https://api.github.com/repos/asafnachshon/github-repo-scanner/git/blobs/f2a05f3a6585af40e1eaf2a5360afebde2268a19"
+        },
+        {
+            "path": "github_repo_scanner/utils",
+            "mode": "040000",
+            "type": "tree",
+            "sha": "edd0d66f6a9657597487aa45a5ac1b77225442ef",
+            "url": "https://api.github.com/repos/asafnachshon/github-repo-scanner/git/trees/edd0d66f6a9657597487aa45a5ac1b77225442ef"
+        },
+        {
+            "path": "github_repo_scanner/utils/__init__.py",
+            "mode": "100644",
+            "type": "blob",
+            "sha": "ff1b2364e1aadca6b7b013b1e34eca3268a52e78",
+            "size": 78,
+            "url": "https://api.github.com/repos/asafnachshon/github-repo-scanner/git/blobs/ff1b2364e1aadca6b7b013b1e34eca3268a52e78"
+        },
+        {
+            "path": "github_repo_scanner/utils/_http.py",
+            "mode": "100644",
+            "type": "blob",
+            "sha": "a484098a886307b2a94b0550e14f1d246852de4f",
+            "size": 269,
+            "url": "https://api.github.com/repos/asafnachshon/github-repo-scanner/git/blobs/a484098a886307b2a94b0550e14f1d246852de4f"
+        },
+        {
+            "path": "requirements.txt",
+            "mode": "100644",
+            "type": "blob",
+            "sha": "959164aa16af3d5327b07cb585c84855a6eecfa0",
+            "size": 45,
+            "url": "https://api.github.com/repos/asafnachshon/github-repo-scanner/git/blobs/959164aa16af3d5327b07cb585c84855a6eecfa0"
+        },
+        {
+            "path": "setup.py",
+            "mode": "100644",
+            "type": "blob",
+            "sha": "e01cf58d61407d93a1475c033659b023e7e6129c",
+            "size": 725,
+            "url": "https://api.github.com/repos/asafnachshon/github-repo-scanner/git/blobs/e01cf58d61407d93a1475c033659b023e7e6129c"
+        }
+    ],
+    "truncated": false
+}
